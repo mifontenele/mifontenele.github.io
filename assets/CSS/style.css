@@ -1,0 +1,15 @@
+.border-none {
+    border:none !important;
+}
+
+body{
+    background-color: none;
+}
+
+h1{
+    color:rgb(43, 64, 226);
+}
+
+h2{
+    color: aliceblue;
+}
